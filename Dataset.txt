@@ -1,0 +1,17 @@
+Dataset 1 
+NIH Chest X-rays for CNN - 
+Official link - https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community
+Download Link -https://www.kaggle.com/datasets/nih-chest-xrays/data
+
+
+Dataset 2 
+X-ray Bone Shadow Suppression
+official link - https://ieee-dataport.org/open-access/x-ray-bone-shadow-suppression
+Download link - https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression
+
+Dataset 3
+Chest Xray Masks and Labels for Segmentation
+official link - https://arxiv.org/abs/1702.05464
+Download link - https://www.kaggle.com/datasets/nikhilpandey360/chest-xray-masks-and-labels
+
+--Thankyou--
